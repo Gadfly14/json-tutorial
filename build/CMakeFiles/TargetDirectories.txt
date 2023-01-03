@@ -1,0 +1,4 @@
+/home/brozo/json-tutorial/build/CMakeFiles/edit_cache.dir
+/home/brozo/json-tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/brozo/json-tutorial/build/CMakeFiles/leptjson.dir
+/home/brozo/json-tutorial/build/CMakeFiles/leptjson_test.dir
